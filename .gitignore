@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+.env/
+.env.*  # in case you name it .env.dev, .env.prod etc
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+
+# macOS & Windows junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Node (just in case you use JS for frontend later)
+node_modules/
